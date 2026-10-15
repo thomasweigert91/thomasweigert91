@@ -7,15 +7,15 @@ I build fast, maintainable web applications — from data-heavy admin platforms 
 📍 Hamburg · 🌍 Remote or on-site
 ✅ **Open to:** permanent positions **and** freelance projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-thomasweigert91.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DEIN-PROFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:DEINE@EMAIL.DE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-lovat-mu-44.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-weigert-frontend)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thomasweigert91@gmail.com)
 
 ---
 
 ## 🔭 Currently
 
-- Building **[GitSpore](https://github.com/DEIN-LINK)** — an interactive 3D environment for visualizing and steering AI coding agents and Git worktrees (Next.js · React Three Fiber · NestJS · npm monorepo), in a team of three
+- Building **[GitSpore](https://github.com/gitspore/gitspore)** — an interactive 3D environment for visualizing and steering AI coding agents and Git worktrees (Next.js · React Three Fiber · NestJS · npm monorepo), in a team of three
 - Deepening my work in **AI integration & agentic coding** (Claude Code, LLM-powered features)
 
 ---
@@ -67,7 +67,7 @@ Continuously shipped business features, modernized frontend structures and impro
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**GitSpore**](https://github.com/DEIN-LINK) | 3D UI + local daemon for AI coding agents · my part: _DEIN BEITRAG_ | Next.js, R3F, NestJS, Monorepo |
+| [**GitSpore**](https://github.com/gitspore/gitspore) | 3D UI + local daemon for AI coding agents · my part: monorepo & CI, daemon security (token/origin auth), real-time client layer with mock scenario engine | Next.js, R3F, NestJS, Monorepo |
 | _Full-stack showcase (coming soon)_ | Data-heavy dashboard, caching, tests, CI | Next.js, NestJS, Postgres, Drizzle |
 | _AI integration demo (coming soon)_ | LLM feature with streaming & error handling | Next.js, Claude API |
 
